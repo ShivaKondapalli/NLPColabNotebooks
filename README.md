@@ -21,7 +21,7 @@ This is the Notebook version of LSTMClassification.py file hosted at [NLPPytorch
 
 The data in this Notebook has been scraped from the web, the details of how to do so have been linked in the notebook. 
 
-##. 3. Text_Generation_with_LSTM.ipynb
+## 3. Text_Generation_with_LSTM.ipynb
 
 This is the Notebook version of Generate_Text.py file hosted at [NLPPytorch](https://github.com/ShivaKondapalli/NLPPyTorch).
 
